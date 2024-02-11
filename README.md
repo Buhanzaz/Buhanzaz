@@ -43,8 +43,8 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=750&center=true&random=false&width=435&lines=%D0%9C%D0%BE%D0%B8+%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a><br>
-    <a href="mailto:Buhanza21@yandex.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail"/></a>
-    <a href="https://t.me/gsom21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="telegram"/></a><br>
+<!--     <a href="mailto:Buhanza21@yandex.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail"/></a>
+    <a href="https://t.me/gsom21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="telegram"/></a><br> -->
 
 [//]: # (<a href="mailto:Buhanza21@yandex.ru"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"  alt="vk"/></a> <br>)
 </div>
